@@ -6,7 +6,7 @@ Tramite lo script `FermiLATLightCurveAnalysis.py` e' possibile leggere dati ed a
 
 # Istruzioni all'uso
 
-Un volta fatto il `clone` della repository e' sufficienti lanciare da terminale lo script `FermiLATLightCurveAnalysis.py` seguito dalla directory della sorgente/file da voler analizzare (per eseguire molteplici sorgenti/file basta aggiungere uno spazio tra le directory). Inoltre e' possibile, inserendo `--file` preceduto da uno spazio dopo la directory che si vuole eseguire, salvare su sorgente file e png relativi al folder/file analizzato invece che visualizzarli a schermo.</br>
+Un volta fatto il `clone` della repository e' sufficiente lanciare da terminale lo script `FermiLATLightCurveAnalysis.py` seguito dalla directory della sorgente/file da voler analizzare (per eseguire molteplici sorgenti/file basta aggiungere uno spazio tra le directory). Inoltre e' possibile, inserendo `--file` preceduto da uno spazio dopo la directory che si vuole eseguire, salvare su sorgente file e png relativi al folder/file analizzato invece che visualizzarli a schermo.</br>
 (Per la parte opzionale, in quanto le alte attività sono caratterischi della singola sorgente e non dei vari campionamenti, basta lanciare il programma con il folder relativo alla sorgente da analizzare per ottenere lo studio delle alta attività)
 
 ### Esempio:<br/>
