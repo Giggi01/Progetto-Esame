@@ -53,7 +53,7 @@ Un volta fatto il `clone` della repository e' sufficiente lanciare da terminale 
             <td><ul>
                 <li>noise</li>
             </ul></td>
-            <td>Studia il tipo di rumore del file da analizzare tramite un fit. Restituisce un grafico con il fit che meglio apporossima il rumore della variabile</td>
+            <td>Studia il tipo di rumore del file da analizzare tramite un fit. Restituisce un grafico con il fit che meglio approssima il rumore della variabile</td>
         </tr>
         <tr>
             <td>filtro.py</td>
@@ -72,7 +72,7 @@ Un volta fatto il `clone` della repository e' sufficiente lanciare da terminale 
             </ul></td>
             <td><ul>
                 <li>Restituisce la soglia minima di fotoni in base alla sorgente analizzata</li>
-                <li>Resituisce il numero di stati si alata attivita e la loro durata in base alla sorgnet eanalizzata</li>
+                <li>Resituisce il numero di stati si alta attivita e la loro durata in base alla sorgente analizzata</li>
                 <li>Resituisce gli indici da cui tracciare i limiti dei vari stati di alta attivita</li>
                 <li>Richiama tutte le funzioni precedenti e grafica la sorgente analizzata applicando la soglia per distiguere stati di quiescenza da stati di alta attivita</li>
             </ul></td>
